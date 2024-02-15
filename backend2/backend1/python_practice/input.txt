@@ -1,0 +1,18 @@
+new_s 1
+new_s 2
+new_s 3
+
+input
+入力専用
+new_s 1
+new_s 2
+new_s 3
+
+input
+入力専用
+new_s 1
+new_s 2
+new_s 3
+
+input
+入力専用
